@@ -17,6 +17,14 @@
   font-weight: bold;
 }
 
+.user-carrd {
+  border: 1px solid #df3d3d;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+  width: 250px;
+  background-color: #e07b7b;
+}
 
 
 
